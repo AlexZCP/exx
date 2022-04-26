@@ -1,0 +1,1 @@
+import{_ as s}from"./index.f61c5f4a.js";import{l as c,D as n,t as e}from"./naive-ui.26efb6a0.js";var t={};const o={},a={class:"about"},r=e("h1",null,"HTTP 403. Restricted.",-1),_=e("p",null,"You have not enugh rights",-1),i=[r,_];function f(d,l){return c(),n("div",a,i)}typeof t=="function"&&t(o);var p=s(o,[["render",f]]);export{p as default};
