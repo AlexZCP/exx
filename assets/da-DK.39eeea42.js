@@ -1,0 +1,1 @@
+var e={messages:{wellcome:"Velkommen",create_acccount:"Opret en konto"},label:{login:"Log p\xE5",password:"Adgangskode"},text:{forgot_password:"Hold \xF8je med ord",login_to_cp:"Log ind p\xE5 systemet",remember_me:"Husk mig"}};export{e as default};

@@ -1,0 +1,1 @@
+var e={messages:{wellcome:"Graag gedaan",create_acccount:"Account aanmaken"},label:{login:"Log in",password:"Wachtwoord"},text:{forgot_password:"Wachtwoord vergeten",login_to_cp:"Inloggen op Cloudprinter",remember_me:"Onthoud me"}};export{e as default};
